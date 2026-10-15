@@ -1,0 +1,9 @@
+com/campus/eventmanagement/user/UserController$LoginRequest.class
+com/campus/eventmanagement/user/UserServiceApplication.class
+com/campus/eventmanagement/user/SecurityConfiguration.class
+com/campus/eventmanagement/user/UserController.class
+com/campus/eventmanagement/user/UserController$UserResponse.class
+com/campus/eventmanagement/user/UserRepository.class
+com/campus/eventmanagement/user/UserController$AuthResponse.class
+com/campus/eventmanagement/user/UserEntity.class
+com/campus/eventmanagement/user/UserController$RegisterRequest.class

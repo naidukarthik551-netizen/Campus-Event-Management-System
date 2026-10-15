@@ -1,0 +1,5 @@
+com/campus/eventmanagement/notification/NotificationController$NotificationRequest.class
+com/campus/eventmanagement/notification/NotificationController.class
+com/campus/eventmanagement/notification/NotificationRepository.class
+com/campus/eventmanagement/notification/NotificationServiceApplication.class
+com/campus/eventmanagement/notification/NotificationEntity.class

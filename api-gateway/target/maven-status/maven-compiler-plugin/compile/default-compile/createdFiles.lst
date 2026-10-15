@@ -1,0 +1,3 @@
+com/campus/eventmanagement/gateway/IdentityHeaderFilter.class
+com/campus/eventmanagement/gateway/ApiGatewayApplication.class
+com/campus/eventmanagement/gateway/SecurityConfiguration.class

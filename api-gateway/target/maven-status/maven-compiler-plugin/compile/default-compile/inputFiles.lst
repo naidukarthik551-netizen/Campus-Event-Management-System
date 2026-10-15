@@ -1,0 +1,3 @@
+/workspaces/Campus-Event-Management-System/api-gateway/src/main/java/com/campus/eventmanagement/gateway/ApiGatewayApplication.java
+/workspaces/Campus-Event-Management-System/api-gateway/src/main/java/com/campus/eventmanagement/gateway/IdentityHeaderFilter.java
+/workspaces/Campus-Event-Management-System/api-gateway/src/main/java/com/campus/eventmanagement/gateway/SecurityConfiguration.java

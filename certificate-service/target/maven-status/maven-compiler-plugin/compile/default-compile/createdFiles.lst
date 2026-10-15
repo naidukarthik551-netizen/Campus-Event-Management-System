@@ -1,0 +1,7 @@
+com/campus/eventmanagement/certificate/CertificateRepository.class
+com/campus/eventmanagement/certificate/CertificateEntity.class
+com/campus/eventmanagement/certificate/RegistrationClient.class
+com/campus/eventmanagement/certificate/CertificateServiceApplication.class
+com/campus/eventmanagement/certificate/RegistrationClient$RegistrationSummary.class
+com/campus/eventmanagement/certificate/CertificateController$IssueRequest.class
+com/campus/eventmanagement/certificate/CertificateController.class

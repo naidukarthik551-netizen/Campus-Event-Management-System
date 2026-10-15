@@ -1,0 +1,5 @@
+com/campus/eventmanagement/event/EventServiceApplication.class
+com/campus/eventmanagement/event/EventController.class
+com/campus/eventmanagement/event/EventController$EventRequest.class
+com/campus/eventmanagement/event/EventRepository.class
+com/campus/eventmanagement/event/EventEntity.class
